@@ -1,0 +1,9 @@
+Concerning municipal growth and housing context, I'm looking for a planning baseline which helps answer:
+"how much growth is planned for Clarington, what kinds of housing are expected to accommodate it, and how does that context affect the plausibility of a senior-oriented rental development?"
+
+A focused data set would include:
+Municipality and forecast year - identifies the place and period.
+Population, with undercount treatment stated - Establishes the local planning growth baseline.
+Total Households - Helps translate population growth into housing demand.
+Households by dwelling type, especially apartments - Shows the anticipated housing mix and whether apartment growth forms part of the plan.
+Source, report date, and forecast status - Keeps the figures traceable and distinguishes planning forecasts from observed results. 
